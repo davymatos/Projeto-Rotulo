@@ -1,5 +1,7 @@
 # Projeto-Rotulo
-“O que é isso no meu rótulo?” - Desenvolvimento de sistema Web para divulgação de informações acerca dos produtos que consumimos
+“O que é isso no meu rótulo?” - Desenvolvimento de sistema Web para divulgação de informações acerca dos produtos que consumimos.
+
+-Repositório de Back-End do projeto
 
 ## Como rodar o projeto:
 - Clone o repositorio
