@@ -10,6 +10,6 @@
 - git clone https://github.com/davymatos/Projeto-Rotulo.git
 - cd Projeto-Rotulo
 - python -m venv .venv
-- source .venv/bin/activate(linux) / c:'diretorio do projeto'/venv/Scripts/activate.bat
+- source .venv/bin/activate(linux) / c:'diretorio do projeto'/venv/Scripts/activate.bat(Windows)
 - python manage.py migrate
 - python manage.py runserver
