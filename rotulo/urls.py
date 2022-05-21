@@ -17,10 +17,12 @@ from django.contrib import admin
 from django.urls import path, include
 from rest_framework import routers
 from app.api import viewsets as ingredientesviewsets
+from app.api import viewsets as categoriasViewSets
 
 route = routers.DefaultRouter()
 
 route.register(r'ingredientes', ingredientesviewsets.IngredientesViewSet, basename="ingredientes")
+route.register(r'categorias', categoriasViewSets.CategoriasViewSet, basename="categorias")
 
 urlpatterns = [
     path('admin/', admin.site.urls),
