@@ -5,7 +5,7 @@
 
 ## Como rodar o projeto:
 - Clone o repositorio
-- Crie um ambiente virtual com python 3
+- Crie um ambiente virtual com python
 - Ative o ambiente
 - Rode as migrações
 - ### Comandos:
